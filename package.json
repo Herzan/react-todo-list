@@ -1,0 +1,19 @@
+{
+  "name": "react-todo-list",
+  "version": "1.0.0",
+  "description": "My firwst Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Herzan/react-todo-list.git"
+  },
+  "author": "Herzan Huerta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Herzan/react-todo-list/issues"
+  },
+  "homepage": "https://github.com/Herzan/react-todo-list#readme"
+}
